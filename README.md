@@ -12,3 +12,5 @@ BaseServiçosPrestados
 4 - Qtde Contratos por Área
 5 - Funcionários por Área
 6 - Ticket Médio Mensal
+
+Exercícios do Curso de Python da Hashtag Treinamentos - Análise da Dados com o Pandas + Integração Python e Excel
