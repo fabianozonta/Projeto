@@ -1,3 +1,5 @@
+Em execução....
+
 Mini Projeto de Análise de Dados
 
 Temos os dados de 2019 de uma empresa de prestação de serviços.
