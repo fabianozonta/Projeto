@@ -1,10 +1,6 @@
-Exercício - Mini Projeto de Análise de Dados
+Mini Projeto de Análise de Dados
 
 Temos os dados de 2019 de uma empresa de prestação de serviços.
-
-CadastroFuncionarios
-CadastroClientes
-BaseServiçosPrestados
 
 1 - Folha Salarial
 2 - Faturamento da Empresa
@@ -13,4 +9,4 @@ BaseServiçosPrestados
 5 - Funcionários por Área
 6 - Ticket Médio Mensal
 
-Exercícios do Curso de Python da Hashtag Treinamentos - Análise da Dados com o Pandas + Integração Python e Excel
+Exercício do Curso de Python da Hashtag Treinamentos - Análise da Dados com o Pandas + Integração Python e Excel
