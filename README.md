@@ -1,5 +1,3 @@
-Em execução....
-
 Mini Projeto de Análise de Dados
 
 Temos os dados de 2019 de uma empresa de prestação de serviços.
@@ -11,4 +9,4 @@ Temos os dados de 2019 de uma empresa de prestação de serviços.
 5 - Funcionários por Área
 6 - Ticket Médio Mensal
 
-Exercício do Curso de Python da Hashtag Treinamentos - Análise da Dados com o Pandas + Integração Python e Excel
+Exercício do Curso de Python da Hashtag Treinamentos - https://www.hashtagtreinamentos.com/ - Análise da Dados com o Pandas + Integração Python e Excel
